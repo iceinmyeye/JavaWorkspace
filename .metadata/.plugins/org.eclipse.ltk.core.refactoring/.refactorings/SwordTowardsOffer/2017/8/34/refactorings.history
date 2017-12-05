@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;stbd&apos; in &apos;com.ReplaceBlank.main(...)&apos; to &apos;strbd&apos;&#x0D;&#x0A;- Original project: &apos;SwordTowardsOffer&apos;&#x0D;&#x0A;- Original element: &apos;com.ReplaceBlank.main(String[]).stbd&apos;&#x0D;&#x0A;- Renamed element: &apos;stbd&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;stbd&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com{ReplaceBlank.java[ReplaceBlank~main~\[QString;@stbd!231!271!245!248!QStringBuilder;!0!false" name="strbd" references="true" stamp="1503216769190" version="1.0"/>
+</session>

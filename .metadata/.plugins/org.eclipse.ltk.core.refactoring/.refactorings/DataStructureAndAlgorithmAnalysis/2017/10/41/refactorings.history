@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.dataStructure.tree&apos; to &apos;com.dataStructure.generalTree&apos;&#x0D;&#x0A;- Original project: &apos;DataStructureAndAlgorithmAnalysis&apos;&#x0D;&#x0A;- Original element: &apos;DataStructureAndAlgorithmAnalysis/src/com.dataStructure.tree&apos;&#x0D;&#x0A;- Renamed element: &apos;DataStructureAndAlgorithmAnalysis/src/com.dataStructure.generalTree&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.dataStructure.tree&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.dataStructure.tree" name="com.dataStructure.generalTree" qualified="false" references="true" stamp="1507558838396" textual="false" version="1.0"/>
+</session>
