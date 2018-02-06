@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="com.dataStructure.AQueue"/>
 <fullyQualifiedTypeName name="java.awt.EventQueue"/>
 <fullyQualifiedTypeName name="java.lang.AssertionError"/>
 <fullyQualifiedTypeName name="com.dataStructure.LQueue"/>
@@ -54,10 +52,12 @@
 <fullyQualifiedTypeName name="java.lang.Double"/>
 <fullyQualifiedTypeName name="edu.princeton.cs.algs4.StdDraw"/>
 <fullyQualifiedTypeName name="edu.princeton.cs.algs4.StdIn"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="com.basic.Functions"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="edu.princeton.cs.algs4.Counter"/>
 <fullyQualifiedTypeName name="edu.princeton.cs.algs4.StdRandom"/>
 <fullyQualifiedTypeName name="edu.princeton.cs.algs4.StdOut"/>
-<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="javax.print.attribute.standard.Sides"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
